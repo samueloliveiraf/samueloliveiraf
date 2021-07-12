@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi I'Am Samuel 👋
 
-<!--
-**samueloliveiraf/samueloliveiraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![https://www.linkedin.com/in/samuel-fernandes-400587182/](https://img.shields.io/badge/--blue?style=flat-square&logo=linkedin)
 
-Here are some ideas to get you started:
+I develop applications using flutter, Google's mobile development SDK. Python study for desktop development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Information Systems
+I always like to study new things, and now I am studying these languages.
+
+![](https://img.shields.io/badge/-flutter-02569B?style=flat-square&logo=flutter)
+![](https://img.shields.io/badge/-dart-0175C2?style=flat-square&logo=dart)
+![](https://img.shields.io/badge/-node-000000?logoColor=white&style=flat-square&logo=node.js)
+![](https://img.shields.io/badge/-python-0C9D58?logoColor=white&style=flat-square&logo=python)
+
+
+### 📊 Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelxd42)](https://github.com/Samuelxd42)
+[![Samuelxd42's github stats](https://github-readme-stats.vercel.app/api?username=Samuelxd42)](https://github.com/Samuelxd42)
