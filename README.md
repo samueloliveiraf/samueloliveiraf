@@ -14,5 +14,5 @@ I always like to study new things, and now I am studying these languages.
 
 
 ### 📊 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelxd42)](https://github.com/Samuelxd42)
-[![Samuelxd42's github stats](https://github-readme-stats.vercel.app/api?username=Samuelxd42)](https://github.com/Samuelxd42)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samueloliveiraf)](https://github.com/samueloliveiraf)
+[![samueloliveiraf's github stats](https://github-readme-stats.vercel.app/api?username=samueloliveiraf)](https://github.com/samueloliveiraf)
