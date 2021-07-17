@@ -16,8 +16,6 @@ I always like to study new things, and now I am studying these languages.
 ### 📊 Stats
 ### Stats
 
-![ThiagoBarradas github stats](https://github-readme-stats.vercel.app/api?username=samueloliveiraf&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact)
-
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samueloliveiraf&show_icons=true&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=151515)
+![samueloliveiraf github stats](https://github-readme-stats.vercel.app/api?username=samueloliveiraf&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samueloliveiraf&show_icons=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=php,css,shell,html&layout=compact)
