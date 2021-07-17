@@ -1,6 +1,6 @@
 ### Hi I'Am Samuel 👋
 
-![https://www.linkedin.com/in/samuel-fernandes-400587182/](https://img.shields.io/badge/--blue?style=flat-square&logo=linkedin)
+![](https://www.linkedin.com/in/samuel-fernandes-400587182/)
 
 I develop applications using flutter, Google's mobile development SDK. Python study for desktop development.
 
