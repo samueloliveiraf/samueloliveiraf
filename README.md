@@ -1,4 +1,10 @@
-<h1 align="center">Hello! I'm Samuel 👩🏻‍💻👋</h1> 
+<h1 align="center">Hello! I'm Samuel 👩🏻‍💻👋
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/samuel-fernandes-400587182/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samueloliveira1b" height="30" width="40" /></a>
+<a href="https://www.instagram.com/samueloliveira1b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="samuel-fernandes-400587182" height="30" width="40" /></a>
+</p>
+</h1> 
 
 <div align="center">
 I develop applications using flutter, Google's mobile development SDK. Python study for desktop development.
@@ -11,11 +17,7 @@ I always like to study new things, and now I am studying these languages.
 ![](https://img.shields.io/badge/-node-000000?logoColor=white&style=flat-square&logo=node.js)
 ![](https://img.shields.io/badge/-python-0C9D58?logoColor=white&style=flat-square&logo=python)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/samuel-fernandes-400587182/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samueloliveira1b" height="30" width="40" /></a>
-<a href="https://www.instagram.com/samueloliveira1b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="samuel-fernandes-400587182" height="30" width="40" /></a>
-</p>
+
 
 ### 📊 Stats
 
