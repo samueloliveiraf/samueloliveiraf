@@ -1,4 +1,4 @@
-<h1 align="center">Hello! I'm Samuel 👩🏻‍💻</h1> 👋
+<h1 align="center">Hello! I'm Samuel 👩🏻‍💻👋</h1> 
 
 I develop applications using flutter, Google's mobile development SDK. Python study for desktop development.
 
