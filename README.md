@@ -14,8 +14,8 @@ I always like to study new things, and now I am studying these languages.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/samuel-fernandes-400587182/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabrielapinheiro129" height="30" width="40" /></a>
-<a href="https://www.instagram.com/samueloliveira1b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ga.brielapinheiro" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samuel-fernandes-400587182/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samueloliveira1b" height="30" width="40" /></a>
+<a href="https://www.instagram.com/samueloliveira1b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="samuel-fernandes-400587182" height="30" width="40" /></a>
 </p>
 
 ### 📊 Stats
