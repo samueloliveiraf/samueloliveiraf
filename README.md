@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Samuel 👩🏻‍💻👋 <a href="https://www.linkedin.com/in/samuel-fernandes-400587182/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samueloliveira1b" height="30" width="40" /></a>
-<a href="https://www.instagram.com/samueloliveira1b/" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="samuel-fernandes-400587182" height="30" width="40" /></a>
+<a href="https://www.instagram.com/samueloliveira1b/" target="_blank"> <img align="center" style="color: white;" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="samuel-fernandes-400587182" height="30" width="40" /></a>
 </h1> 
 
 <div align="center">
