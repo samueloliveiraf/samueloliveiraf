@@ -3,8 +3,7 @@
 </h1> 
 
 <div align="center">
-I develop applications using flutter, Google's mobile development SDK. Python study for desktop development.
-
+  
 ### Information Systems
 I always like to study new things, and now I am studying these languages.
 
